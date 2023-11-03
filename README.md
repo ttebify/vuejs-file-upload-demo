@@ -2,6 +2,8 @@
 
 This project demonstrates a basic setup for uploading files using Vue.js with the **Vue File Upload component** and **ImageKit Vue.js SDK**. It has an Express.js backend server. The Vue component allows users to select and upload files to the server, and the server handles the file uploads.
 
+<img width="800" alt="Screenshot 2023-11-03 at 07 47 02" src="https://github.com/ttebify/vuejs-file-upload-demo/assets/86431009/bad10219-d5b1-4e11-82dd-f846d6f61e11">
+
 
 ## Prerequisites
 
