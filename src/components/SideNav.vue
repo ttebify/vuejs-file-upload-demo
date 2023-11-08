@@ -3,7 +3,8 @@
         <button @click="toggleSideNav" class="toggle-btn">
             <i class="fas fa-bars"></i>
         </button>
-        <router-link to="/vue-file-upload" class="nav-link" active-class="active-link">Vue File Upload</router-link>
+        <router-link to="/native-html5" class="nav-link" active-class="active-link">Native HTML5</router-link>
+        <router-link to="/vue-upload-component" class="nav-link" active-class="active-link">Vue Upload Component</router-link>
         <!-- <router-link to="/composition-api" class="nav-link" active-class="active-link">Composition API</router-link> -->
         <router-link to="/imagekit" class="nav-link" active-class="active-link">ImageKit</router-link>
     </div>

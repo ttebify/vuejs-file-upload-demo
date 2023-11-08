@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1>Imagekit File Upload Example</h1>
     <ik-upload
       :useUniqueFileName="true"
       :onSuccess="handleSuccess"

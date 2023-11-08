@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Vue File Upload Example</h1>
+    <h1>Vue Upload Component Example</h1>
     <file-upload
       ref="upload"
       post-action="http://localhost:3000/upload"
